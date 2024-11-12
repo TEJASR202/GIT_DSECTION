@@ -4,4 +4,3 @@ Banglore
 stash message
 acharya
 Soladevanhalli
-Message for revert
