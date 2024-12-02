@@ -2,16 +2,8 @@ Tejas Raijadhav
 Ait
 Banglore
 CSE
-<<<<<<< Updated upstream
-=======
-=======
-stash message
 acharya
 Soladevanhalliiii
 Bug fixes
 Cherrypick push
-git stashing
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
