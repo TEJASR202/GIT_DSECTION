@@ -6,8 +6,4 @@ acharya
 Soladevanhalliiii
 Bug fixes
 Cherrypick push
-<<<<<<< Updated upstream
-
-=======
 Stash message2
->>>>>>> Stashed changes
